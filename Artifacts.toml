@@ -1,0 +1,127 @@
+[[CBQN]]
+arch = "aarch64"
+git-tree-sha1 = "c691230e3d3e005cd7f895ec4a3437bb9d7042b0"
+os = "macos"
+
+    [[CBQN.download]]
+    sha256 = "1ecce2b8cbdc7ab4773139bbc6d30476dc463c50321fa98b96bc71c5b9465dfe"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.aarch64-apple-darwin.tar.gz"
+[[CBQN]]
+arch = "aarch64"
+git-tree-sha1 = "808ee7ee3b82ca0634fb5941130683f1e75cd2ab"
+libc = "glibc"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "374b1ed734f64edf5b8dea8535c69072e530f3cc61abba7231ed8c763c8e225d"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.aarch64-linux-gnu.tar.gz"
+[[CBQN]]
+arch = "aarch64"
+git-tree-sha1 = "81e4f7fa1062297f073d5a6892a4356535e30671"
+libc = "musl"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "3d6f42493b830ebcc15f72e2f28673f37685879d41d2d3cc745848c7f892dfec"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.aarch64-linux-musl.tar.gz"
+[[CBQN]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "324c2be970b32719178135676caecd2696211eb9"
+libc = "glibc"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "982fbb4be51bd68d412873140232e784559c48b6530626ddce9e5f4d7d969a9a"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.armv6l-linux-gnueabihf.tar.gz"
+[[CBQN]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "78d55a7b3fdba2bf386bb69a8865a95abf299e04"
+libc = "musl"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "f6f4fadf7bab5c18364e1fb87e97c1c76a7f4b3400efc3b6533d4a3225e9390e"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.armv6l-linux-musleabihf.tar.gz"
+[[CBQN]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fde06cb4ead1926f6df7f7122a343dc0df013b64"
+libc = "glibc"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "c018abfda8ba06cf1fa8d2dacb599470b7c8e992286b064d0ac58507f85c27f2"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.armv7l-linux-gnueabihf.tar.gz"
+[[CBQN]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7d880b646e0563dab1b8d836e725909888c0161b"
+libc = "musl"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "60be5c831775ca823aa08d0d1f0d1ee49f76ff957e78d97f765342898e3f7a1e"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.armv7l-linux-musleabihf.tar.gz"
+[[CBQN]]
+arch = "i686"
+git-tree-sha1 = "9725b1a29f5b008aab7e259f4394cccdf9f0634a"
+libc = "glibc"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "a93bcb78fa2972b295792d7c4470cd016acd8ace3f2bc572be92ab5ab7febcc2"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.i686-linux-gnu.tar.gz"
+[[CBQN]]
+arch = "i686"
+git-tree-sha1 = "31fe5ba685436409ecac11451e0f8f4dc78bbe8d"
+libc = "musl"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "79ac41f721904270b492c65aac28f03e63f105134f9bdbde8846d5abc2f3e477"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.i686-linux-musl.tar.gz"
+[[CBQN]]
+arch = "powerpc64le"
+git-tree-sha1 = "ab38334eb125dfc5035bdd0a17edf7aaba13330f"
+libc = "glibc"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "491a5707b4c16bea28056ba496e29f5bb6978e4251eb8ff4d85a95b1cce50db5"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.powerpc64le-linux-gnu.tar.gz"
+[[CBQN]]
+arch = "x86_64"
+git-tree-sha1 = "4a991bcf63dd8bb2523877462e03033579be1490"
+os = "macos"
+
+    [[CBQN.download]]
+    sha256 = "67d555b7c61ce6556dea71ceca0a27bd46fc1c1ee8d07fda7f06e0ef8ba33929"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.x86_64-apple-darwin.tar.gz"
+[[CBQN]]
+arch = "x86_64"
+git-tree-sha1 = "d3bcb88fa90de6ebeba13652c65eb52b4dd475f5"
+libc = "glibc"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "e60965a9cef50ee321eb6c2426f7e0f5ef2802e8d52d183f8b942e2b1222142f"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.x86_64-linux-gnu.tar.gz"
+[[CBQN]]
+arch = "x86_64"
+git-tree-sha1 = "62215ff8fde66e6817c2236da78e34f45dfbbb17"
+libc = "musl"
+os = "linux"
+
+    [[CBQN.download]]
+    sha256 = "f4da77566806b4da0e759b40e23ebb09635babb615d636ea2500bf3f8c5ed27a"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.x86_64-linux-musl.tar.gz"
+[[CBQN]]
+arch = "x86_64"
+git-tree-sha1 = "9cf5dcad52a2881cb005c2d358fb3b8305f8b947"
+os = "freebsd"
+
+    [[CBQN.download]]
+    sha256 = "86652c8c05004ae9de04d60fc50128769ad1513f69392f1bd491b92134655b55"
+    url = "https://github.com/JuliaBinaryWrappers/CBQN_jll.jl/releases/download/CBQN-v2022.11.8+0/CBQN.v2022.11.8.x86_64-unknown-freebsd.tar.gz"
